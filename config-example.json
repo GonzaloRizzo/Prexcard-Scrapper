@@ -1,0 +1,5 @@
+{
+    "interval" : "<Interval between scraps>",
+    "username" : "<ID or email>",
+    "password" : "<Base64 encoded password>"
+}
